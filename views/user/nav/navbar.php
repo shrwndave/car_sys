@@ -10,7 +10,7 @@
                         <li class="nav-item"><a class="nav-link" href="index.php#portfolio">Services</a></li>
                         <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#contact">Log out</a></li>
+                        <li class="nav-item"><a class="nav-link" href="">Log out</a></li>
                     </ul>
                 </div>
             </div>
