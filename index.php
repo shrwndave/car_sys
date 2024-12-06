@@ -1,1 +1,1 @@
-<script>window.location.href='admin/pages/authentication.php';</script>
+<script>window.location.href='pages/authentication.php';</script>

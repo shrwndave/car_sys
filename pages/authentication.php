@@ -34,7 +34,7 @@
 		//-----------------------------//
 		//--   function start here   --//
 		function login(){
-			include '../views/login.php';
+			include '../views/admin/login.php';
 		}
 	}
 
@@ -62,10 +62,10 @@
 			
 			//check if login success
 			if ($login){
-				header('location:../pages/index.php');
+				header('location:../pages/dashboard.php');
 			}else{
 				$msg = "Invalid Username or Password!";
-				include '../views/login.php';
+				include '../views/admin/login.php';
 			}
 		}
 	}
